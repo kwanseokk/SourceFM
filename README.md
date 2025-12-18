@@ -11,7 +11,7 @@ Official implementation of our TMLR submission investigating optimal source dist
 ![TMLR 2025](https://img.shields.io/badge/TMLR-2025-green)
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/forum?id=sev0GtV1fc&referrer=%5BAuthor%20Console%5D)
 
-[Junho Lee](mailto:joon2003@snu.ac.kr)\*,  [Kwanseok Kim](mailto:kwanseok@snu.ac.kr)\*,  [Joonseok Lee](mailto:joonseok@snu.ac.kr)†
+[Junho Lee](mailto:joon2003@snu.ac.kr)\*,  [Kwanseok Kim](mailto:kjvd1009@snu.ac.kr)\*,  [Joonseok Lee](mailto:joonseok@snu.ac.kr)†
 
 Seoul National University, Seoul, Korea  
 \* Equal contribution  
