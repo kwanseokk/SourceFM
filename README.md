@@ -6,7 +6,7 @@
 
 Official implementation of our TMLR submission investigating optimal source distribution choices for flow matching in generative modeling. -->
 
-# Is There a Better Source Distribution than Gaussian?: Exploring Source Distributions for Image Flow Matching
+# [Is There a Better Source Distribution than Gaussian?: Exploring Source Distributions for Image Flow Matching](https://arxiv.org/abs/2512.18184)
 
 ![TMLR 2025](https://img.shields.io/badge/TMLR-2025-green)
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/forum?id=sev0GtV1fc&referrer=%5BAuthor%20Console%5D)
