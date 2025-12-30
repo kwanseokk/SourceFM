@@ -250,10 +250,10 @@ SourceFM_CR/
 ## Citation
 
 ```bibtex
-@article{sourcefm2024,
+@article{lee2025there,
   title={Is There a Better Source Distribution than Gaussian? Exploring Source Distributions for Image Flow Matching},
-  author={Junho Lee, Kwanseok Kim, Joonseok Lee},
-  journal={Under review as submission to TMLR},
+  author={Lee, Junho and Kim, Kwanseok and Lee, Joonseok},
+  journal={arXiv preprint arXiv:2512.18184},
   year={2025}
 }
 ```
